@@ -1,0 +1,10 @@
+---
+config:
+  application: "Sample App"
+  version: "1.0.1"
+  autoStart: true
+  database:
+    url: "jdbc:db//localhost"
+env: "test"
+app:
+  port: 8081
